@@ -36,6 +36,9 @@ SETTINGS_FRIENDS_LINKS: {
         # 示例1：
         ["安知鱼", "https://anzhiy.cn/", "https://img02.anzhiy.cn/adminuploads/1/2022/09/15/63232b7d91d22.jpg"],
         ["Jerry", "https://butterfly.js.org/", "https://butterfly.js.org/img/avatar.png"],
+        ["Gtwxxh-小小窝", "https://blog.gtwxxh.cn/", "https://cdn.staticaly.com/gh/gtwxxh666/pic@main/1/user.JPG"],
+        ["Refeain🥝", "https://www.cosn.cc/", "https://picbed.cosn.cc/img/head1.jpg"],
+        ["Tiamo🥝", "https://xiaoadaiblog.cn/", "https://s1.ax1x.com/2023/04/06/ppotT6s.jpg"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
